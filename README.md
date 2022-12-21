@@ -19,7 +19,7 @@
 `https://am-country-city.web.app/countries.json`
 
 Чтобы получить список городов по стране надо передать `iso2` аббревиатуру страны в запрос  
-`https://am-country-city.web.app/{iso2}.json`
+`https://am-country-city.web.app/countries/{iso2}.json`
 
 Список городов сгруппирован по штатам / регионам. Использовать эту информацию как subtitle.  
 Использовать поле native, если оно не null, чтобы отображать нативное написание города / страны
