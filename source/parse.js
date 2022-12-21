@@ -9,12 +9,14 @@ for (const i in countries) {
     for (const j in country.states) {
         const state = country.states[j];
         const myState = {};
+        myState.id = state.id;
         myState.name = state.name;
         myState.native = null;
         myState.cities = [];
         for (const y in state.cities) {
             const city = state.cities[y];
             const myCity = {};
+            myCity.id = city.id;
             myCity.name = city.name;
             myCity.native = null;
             myCity.lat = city.latitude;
