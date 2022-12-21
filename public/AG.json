@@ -1,9 +1,1 @@
-[{"state":"Barbuda","name":"Codrington","lat":"17.63333000","lon":"-61.83333000"},
-{"state":"Saint George Parish","name":"Piggotts","lat":"17.11667000","lon":"-61.80000000"},
-{"state":"Saint John Parish","name":"Potters Village","lat":"17.11337000","lon":"-61.81962000"},
-{"state":"Saint John Parish","name":"Saint John’s","lat":"17.12096000","lon":"-61.84329000"},
-{"state":"Saint Mary Parish","name":"Bolands","lat":"17.06565000","lon":"-61.87466000"},
-{"state":"Saint Paul Parish","name":"Falmouth","lat":"17.02741000","lon":"-61.78136000"},
-{"state":"Saint Paul Parish","name":"Liberta","lat":"17.04141000","lon":"-61.79052000"},
-{"state":"Saint Peter Parish","name":"All Saints","lat":"17.06671000","lon":"-61.79303000"},
-{"state":"Saint Peter Parish","name":"Parham","lat":"17.09682000","lon":"-61.77046000"}]
+[{"name":"Barbuda","native":null,"cities":[{"name":"Codrington","native":null,"lat":"17.63333000","lon":"-61.83333000"}]},{"name":"Redonda","native":null,"cities":[]},{"name":"Saint George Parish","native":null,"cities":[{"name":"Piggotts","native":null,"lat":"17.11667000","lon":"-61.80000000"}]},{"name":"Saint John Parish","native":null,"cities":[{"name":"Potters Village","native":null,"lat":"17.11337000","lon":"-61.81962000"},{"name":"Saint John’s","native":null,"lat":"17.12096000","lon":"-61.84329000"}]},{"name":"Saint Mary Parish","native":null,"cities":[{"name":"Bolands","native":null,"lat":"17.06565000","lon":"-61.87466000"}]},{"name":"Saint Paul Parish","native":null,"cities":[{"name":"Falmouth","native":null,"lat":"17.02741000","lon":"-61.78136000"},{"name":"Liberta","native":null,"lat":"17.04141000","lon":"-61.79052000"}]},{"name":"Saint Peter Parish","native":null,"cities":[{"name":"All Saints","native":null,"lat":"17.06671000","lon":"-61.79303000"},{"name":"Parham","native":null,"lat":"17.09682000","lon":"-61.77046000"}]},{"name":"Saint Philip Parish","native":null,"cities":[]}]

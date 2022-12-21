@@ -1,12 +1,1 @@
-[{"state":"Berea District","name":"Teyateyaneng","lat":"-29.14719000","lon":"27.74895000"},
-{"state":"Butha-Buthe District","name":"Butha-Buthe","lat":"-28.76659000","lon":"28.24937000"},
-{"state":"Leribe District","name":"Leribe","lat":"-28.87185000","lon":"28.04501000"},
-{"state":"Leribe District","name":"Maputsoe","lat":"-28.88660000","lon":"27.89915000"},
-{"state":"Mafeteng District","name":"Mafeteng","lat":"-29.82299000","lon":"27.23744000"},
-{"state":"Maseru District","name":"Maseru","lat":"-29.31667000","lon":"27.48333000"},
-{"state":"Maseru District","name":"Nako","lat":"-29.61667000","lon":"27.76667000"},
-{"state":"Mohale's Hoek District","name":"Mohale’s Hoek","lat":"-30.15137000","lon":"27.47691000"},
-{"state":"Mokhotlong District","name":"Mokhotlong","lat":"-29.28939000","lon":"29.06751000"},
-{"state":"Qacha's Nek District","name":"Qacha’s Nek","lat":"-30.11537000","lon":"28.68936000"},
-{"state":"Quthing District","name":"Quthing","lat":"-30.40001000","lon":"27.70027000"},
-{"state":"Thaba-Tseka District","name":"Thaba-Tseka","lat":"-29.52204000","lon":"28.60840000"}]
+[{"name":"Berea District","native":null,"cities":[{"name":"Teyateyaneng","native":null,"lat":"-29.14719000","lon":"27.74895000"}]},{"name":"Butha-Buthe District","native":null,"cities":[{"name":"Butha-Buthe","native":null,"lat":"-28.76659000","lon":"28.24937000"}]},{"name":"Leribe District","native":null,"cities":[{"name":"Leribe","native":null,"lat":"-28.87185000","lon":"28.04501000"},{"name":"Maputsoe","native":null,"lat":"-28.88660000","lon":"27.89915000"}]},{"name":"Mafeteng District","native":null,"cities":[{"name":"Mafeteng","native":null,"lat":"-29.82299000","lon":"27.23744000"}]},{"name":"Maseru District","native":null,"cities":[{"name":"Maseru","native":null,"lat":"-29.31667000","lon":"27.48333000"},{"name":"Nako","native":null,"lat":"-29.61667000","lon":"27.76667000"}]},{"name":"Mohale's Hoek District","native":null,"cities":[{"name":"Mohale’s Hoek","native":null,"lat":"-30.15137000","lon":"27.47691000"}]},{"name":"Mokhotlong District","native":null,"cities":[{"name":"Mokhotlong","native":null,"lat":"-29.28939000","lon":"29.06751000"}]},{"name":"Qacha's Nek District","native":null,"cities":[{"name":"Qacha’s Nek","native":null,"lat":"-30.11537000","lon":"28.68936000"}]},{"name":"Quthing District","native":null,"cities":[{"name":"Quthing","native":null,"lat":"-30.40001000","lon":"27.70027000"}]},{"name":"Thaba-Tseka District","native":null,"cities":[{"name":"Thaba-Tseka","native":null,"lat":"-29.52204000","lon":"28.60840000"}]}]

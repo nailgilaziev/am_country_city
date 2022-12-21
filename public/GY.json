@@ -1,14 +1,1 @@
-[{"state":"Barima-Waini","name":"Mabaruma","lat":"8.20000000","lon":"-59.78333000"},
-{"state":"Cuyuni-Mazaruni","name":"Bartica","lat":"6.40799000","lon":"-58.62192000"},
-{"state":"Demerara-Mahaica","name":"Georgetown","lat":"6.80448000","lon":"-58.15527000"},
-{"state":"Demerara-Mahaica","name":"Mahaica Village","lat":"6.68405000","lon":"-57.92181000"},
-{"state":"East Berbice-Corentyne","name":"New Amsterdam","lat":"6.24793000","lon":"-57.51710000"},
-{"state":"East Berbice-Corentyne","name":"Skeldon","lat":"5.88333000","lon":"-57.13333000"},
-{"state":"Essequibo Islands-West Demerara","name":"Parika","lat":"6.83712000","lon":"-58.42941000"},
-{"state":"Essequibo Islands-West Demerara","name":"Vreed-en-Hoop","lat":"6.80927000","lon":"-58.19798000"},
-{"state":"Mahaica-Berbice","name":"Mahaicony Village","lat":"6.57633000","lon":"-57.80486000"},
-{"state":"Mahaica-Berbice","name":"Rosignol","lat":"6.27095000","lon":"-57.53697000"},
-{"state":"Pomeroon-Supenaam","name":"Anna Regina","lat":"7.26439000","lon":"-58.50769000"},
-{"state":"Potaro-Siparuni","name":"Mahdia","lat":"5.26667000","lon":"-59.15000000"},
-{"state":"Upper Demerara-Berbice","name":"Linden","lat":"6.00809000","lon":"-58.30714000"},
-{"state":"Upper Takutu-Upper Essequibo","name":"Lethem","lat":"3.38333000","lon":"-59.80000000"}]
+[{"name":"Barima-Waini","native":null,"cities":[{"name":"Mabaruma","native":null,"lat":"8.20000000","lon":"-59.78333000"}]},{"name":"Cuyuni-Mazaruni","native":null,"cities":[{"name":"Bartica","native":null,"lat":"6.40799000","lon":"-58.62192000"}]},{"name":"Demerara-Mahaica","native":null,"cities":[{"name":"Georgetown","native":null,"lat":"6.80448000","lon":"-58.15527000"},{"name":"Mahaica Village","native":null,"lat":"6.68405000","lon":"-57.92181000"}]},{"name":"East Berbice-Corentyne","native":null,"cities":[{"name":"New Amsterdam","native":null,"lat":"6.24793000","lon":"-57.51710000"},{"name":"Skeldon","native":null,"lat":"5.88333000","lon":"-57.13333000"}]},{"name":"Essequibo Islands-West Demerara","native":null,"cities":[{"name":"Parika","native":null,"lat":"6.83712000","lon":"-58.42941000"},{"name":"Vreed-en-Hoop","native":null,"lat":"6.80927000","lon":"-58.19798000"}]},{"name":"Mahaica-Berbice","native":null,"cities":[{"name":"Mahaicony Village","native":null,"lat":"6.57633000","lon":"-57.80486000"},{"name":"Rosignol","native":null,"lat":"6.27095000","lon":"-57.53697000"}]},{"name":"Pomeroon-Supenaam","native":null,"cities":[{"name":"Anna Regina","native":null,"lat":"7.26439000","lon":"-58.50769000"}]},{"name":"Potaro-Siparuni","native":null,"cities":[{"name":"Mahdia","native":null,"lat":"5.26667000","lon":"-59.15000000"}]},{"name":"Upper Demerara-Berbice","native":null,"cities":[{"name":"Linden","native":null,"lat":"6.00809000","lon":"-58.30714000"}]},{"name":"Upper Takutu-Upper Essequibo","native":null,"cities":[{"name":"Lethem","native":null,"lat":"3.38333000","lon":"-59.80000000"}]}]

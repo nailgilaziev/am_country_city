@@ -1,11 +1,1 @@
-[{"state":"Balzers","name":"Balzers","lat":"47.06665000","lon":"9.50251000"},
-{"state":"Eschen","name":"Eschen","lat":"47.21071000","lon":"9.52223000"},
-{"state":"Gamprin","name":"Gamprin","lat":"47.22038000","lon":"9.50935000"},
-{"state":"Mauren","name":"Mauren","lat":"47.21805000","lon":"9.54420000"},
-{"state":"Planken","name":"Planken","lat":"47.18516000","lon":"9.54437000"},
-{"state":"Ruggell","name":"Ruggell","lat":"47.23799000","lon":"9.52540000"},
-{"state":"Schaan","name":"Schaan","lat":"47.16498000","lon":"9.50867000"},
-{"state":"Schellenberg","name":"Schellenberg","lat":"47.23123000","lon":"9.54678000"},
-{"state":"Triesen","name":"Triesen","lat":"47.10752000","lon":"9.52815000"},
-{"state":"Triesenberg","name":"Triesenberg","lat":"47.11815000","lon":"9.54197000"},
-{"state":"Vaduz","name":"Vaduz","lat":"47.14151000","lon":"9.52154000"}]
+[{"name":"Balzers","native":null,"cities":[{"name":"Balzers","native":null,"lat":"47.06665000","lon":"9.50251000"}]},{"name":"Eschen","native":null,"cities":[{"name":"Eschen","native":null,"lat":"47.21071000","lon":"9.52223000"}]},{"name":"Gamprin","native":null,"cities":[{"name":"Gamprin","native":null,"lat":"47.22038000","lon":"9.50935000"}]},{"name":"Mauren","native":null,"cities":[{"name":"Mauren","native":null,"lat":"47.21805000","lon":"9.54420000"}]},{"name":"Planken","native":null,"cities":[{"name":"Planken","native":null,"lat":"47.18516000","lon":"9.54437000"}]},{"name":"Ruggell","native":null,"cities":[{"name":"Ruggell","native":null,"lat":"47.23799000","lon":"9.52540000"}]},{"name":"Schaan","native":null,"cities":[{"name":"Schaan","native":null,"lat":"47.16498000","lon":"9.50867000"}]},{"name":"Schellenberg","native":null,"cities":[{"name":"Schellenberg","native":null,"lat":"47.23123000","lon":"9.54678000"}]},{"name":"Triesen","native":null,"cities":[{"name":"Triesen","native":null,"lat":"47.10752000","lon":"9.52815000"}]},{"name":"Triesenberg","native":null,"cities":[{"name":"Triesenberg","native":null,"lat":"47.11815000","lon":"9.54197000"}]},{"name":"Vaduz","native":null,"cities":[{"name":"Vaduz","native":null,"lat":"47.14151000","lon":"9.52154000"}]}]

@@ -1,9 +1,1 @@
-[{"state":"Funafuti","name":"Alapi Village","lat":"-8.52074000","lon":"179.19680000"},
-{"state":"Funafuti","name":"Fakaifou Village","lat":"-8.51758000","lon":"179.20094000"},
-{"state":"Funafuti","name":"Funafuti","lat":"-8.52425000","lon":"179.19417000"},
-{"state":"Nanumanga","name":"Toga Village","lat":"-6.28764000","lon":"176.31472000"},
-{"state":"Niutao Island Council","name":"Kulia Village","lat":"-6.10819000","lon":"177.33393000"},
-{"state":"Niutao Island Council","name":"Niulakita","lat":"-10.78800000","lon":"179.46600000"},
-{"state":"Nui","name":"Tanrake Village","lat":"-7.24562000","lon":"177.14511000"},
-{"state":"Nukufetau","name":"Savave Village","lat":"-8.02731000","lon":"178.31351000"},
-{"state":"Vaitupu","name":"Asau Village","lat":"-7.49026000","lon":"178.68016000"}]
+[{"name":"Funafuti","native":null,"cities":[{"name":"Alapi Village","native":null,"lat":"-8.52074000","lon":"179.19680000"},{"name":"Fakaifou Village","native":null,"lat":"-8.51758000","lon":"179.20094000"},{"name":"Funafuti","native":null,"lat":"-8.52425000","lon":"179.19417000"}]},{"name":"Nanumanga","native":null,"cities":[{"name":"Toga Village","native":null,"lat":"-6.28764000","lon":"176.31472000"}]},{"name":"Nanumea","native":null,"cities":[]},{"name":"Niutao Island Council","native":null,"cities":[{"name":"Kulia Village","native":null,"lat":"-6.10819000","lon":"177.33393000"},{"name":"Niulakita","native":null,"lat":"-10.78800000","lon":"179.46600000"}]},{"name":"Nui","native":null,"cities":[{"name":"Tanrake Village","native":null,"lat":"-7.24562000","lon":"177.14511000"}]},{"name":"Nukufetau","native":null,"cities":[{"name":"Savave Village","native":null,"lat":"-8.02731000","lon":"178.31351000"}]},{"name":"Nukulaelae","native":null,"cities":[]},{"name":"Vaitupu","native":null,"cities":[{"name":"Asau Village","native":null,"lat":"-7.49026000","lon":"178.68016000"}]}]

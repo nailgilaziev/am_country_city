@@ -1,16 +1,1 @@
-[{"state":"Aimeliik","name":"Ngchemiangel","lat":"7.44613000","lon":"134.47678000"},
-{"state":"Airai","name":"Ngetkib","lat":"7.36451000","lon":"134.51484000"},
-{"state":"Angaur","name":"Angaur State","lat":"6.90601000","lon":"134.12997000"},
-{"state":"Hatohobei","name":"Tobi Village","lat":"3.00488000","lon":"131.12168000"},
-{"state":"Kayangel","name":"Kayangel","lat":"8.08228000","lon":"134.71725000"},
-{"state":"Koror","name":"Koror","lat":"7.33978000","lon":"134.47326000"},
-{"state":"Koror","name":"Koror Town","lat":"7.34257000","lon":"134.47888000"},
-{"state":"Melekeok","name":"Melekeok Village","lat":"7.49567000","lon":"134.63671000"},
-{"state":"Ngaraard","name":"Ulimang","lat":"7.62416000","lon":"134.64208000"},
-{"state":"Ngarchelong","name":"Mengellang","lat":"7.69570000","lon":"134.63054000"},
-{"state":"Ngardmau","name":"Ngardmau","lat":"7.60986000","lon":"134.57440000"},
-{"state":"Ngchesar","name":"Ngchesar Hamlet","lat":"7.46932000","lon":"134.60991000"},
-{"state":"Ngeremlengui","name":"Imeong Hamlet","lat":"7.53134000","lon":"134.52713000"},
-{"state":"Ngiwal","name":"Ngerkeai","lat":"7.55456000","lon":"134.63612000"},
-{"state":"Peleliu","name":"Kloulklubed","lat":"7.04192000","lon":"134.25561000"},
-{"state":"Sonsorol","name":"Sonsorol Village","lat":"5.32608000","lon":"132.21943000"}]
+[{"name":"Aimeliik","native":null,"cities":[{"name":"Ngchemiangel","native":null,"lat":"7.44613000","lon":"134.47678000"}]},{"name":"Airai","native":null,"cities":[{"name":"Ngetkib","native":null,"lat":"7.36451000","lon":"134.51484000"}]},{"name":"Angaur","native":null,"cities":[{"name":"Angaur State","native":null,"lat":"6.90601000","lon":"134.12997000"}]},{"name":"Hatohobei","native":null,"cities":[{"name":"Tobi Village","native":null,"lat":"3.00488000","lon":"131.12168000"}]},{"name":"Kayangel","native":null,"cities":[{"name":"Kayangel","native":null,"lat":"8.08228000","lon":"134.71725000"}]},{"name":"Koror","native":null,"cities":[{"name":"Koror","native":null,"lat":"7.33978000","lon":"134.47326000"},{"name":"Koror Town","native":null,"lat":"7.34257000","lon":"134.47888000"}]},{"name":"Melekeok","native":null,"cities":[{"name":"Melekeok Village","native":null,"lat":"7.49567000","lon":"134.63671000"}]},{"name":"Ngaraard","native":null,"cities":[{"name":"Ulimang","native":null,"lat":"7.62416000","lon":"134.64208000"}]},{"name":"Ngarchelong","native":null,"cities":[{"name":"Mengellang","native":null,"lat":"7.69570000","lon":"134.63054000"}]},{"name":"Ngardmau","native":null,"cities":[{"name":"Ngardmau","native":null,"lat":"7.60986000","lon":"134.57440000"}]},{"name":"Ngatpang","native":null,"cities":[]},{"name":"Ngchesar","native":null,"cities":[{"name":"Ngchesar Hamlet","native":null,"lat":"7.46932000","lon":"134.60991000"}]},{"name":"Ngeremlengui","native":null,"cities":[{"name":"Imeong Hamlet","native":null,"lat":"7.53134000","lon":"134.52713000"}]},{"name":"Ngiwal","native":null,"cities":[{"name":"Ngerkeai","native":null,"lat":"7.55456000","lon":"134.63612000"}]},{"name":"Peleliu","native":null,"cities":[{"name":"Kloulklubed","native":null,"lat":"7.04192000","lon":"134.25561000"}]},{"name":"Sonsorol","native":null,"cities":[{"name":"Sonsorol Village","native":null,"lat":"5.32608000","lon":"132.21943000"}]}]

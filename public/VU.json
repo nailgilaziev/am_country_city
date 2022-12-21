@@ -1,7 +1,1 @@
-[{"state":"Malampa","name":"Lakatoro","lat":"-16.09992000","lon":"167.41636000"},
-{"state":"Malampa","name":"Norsup","lat":"-16.06536000","lon":"167.39714000"},
-{"state":"Sanma","name":"Luganville","lat":"-15.51989000","lon":"167.16235000"},
-{"state":"Sanma","name":"Port-Olry","lat":"-15.04175000","lon":"167.07265000"},
-{"state":"Shefa","name":"Port-Vila","lat":"-17.73648000","lon":"168.31366000"},
-{"state":"Tafea","name":"Isangel","lat":"-19.54167000","lon":"169.28167000"},
-{"state":"Torba","name":"Sola","lat":"-13.87611000","lon":"167.55167000"}]
+[{"name":"Malampa","native":null,"cities":[{"name":"Lakatoro","native":null,"lat":"-16.09992000","lon":"167.41636000"},{"name":"Norsup","native":null,"lat":"-16.06536000","lon":"167.39714000"}]},{"name":"Penama","native":null,"cities":[]},{"name":"Sanma","native":null,"cities":[{"name":"Luganville","native":null,"lat":"-15.51989000","lon":"167.16235000"},{"name":"Port-Olry","native":null,"lat":"-15.04175000","lon":"167.07265000"}]},{"name":"Shefa","native":null,"cities":[{"name":"Port-Vila","native":null,"lat":"-17.73648000","lon":"168.31366000"}]},{"name":"Tafea","native":null,"cities":[{"name":"Isangel","native":null,"lat":"-19.54167000","lon":"169.28167000"}]},{"name":"Torba","native":null,"cities":[{"name":"Sola","native":null,"lat":"-13.87611000","lon":"167.55167000"}]}]

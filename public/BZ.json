@@ -1,13 +1,1 @@
-[{"state":"Belize District","name":"Belize City","lat":"17.49952000","lon":"-88.19756000"},
-{"state":"Belize District","name":"San Pedro","lat":"17.91598000","lon":"-87.96590000"},
-{"state":"Cayo District","name":"Belmopan","lat":"17.25000000","lon":"-88.76667000"},
-{"state":"Cayo District","name":"Benque Viejo el Carmen","lat":"17.07500000","lon":"-89.13917000"},
-{"state":"Cayo District","name":"San Ignacio","lat":"17.15880000","lon":"-89.06960000"},
-{"state":"Cayo District","name":"Valley of Peace","lat":"17.33472000","lon":"-88.83472000"},
-{"state":"Corozal District","name":"Corozal","lat":"18.39375000","lon":"-88.38849000"},
-{"state":"Orange Walk District","name":"Hopelchén","lat":"17.80000000","lon":"-89.10000000"},
-{"state":"Orange Walk District","name":"Orange Walk","lat":"18.08124000","lon":"-88.56328000"},
-{"state":"Orange Walk District","name":"Shipyard","lat":"17.89382000","lon":"-88.65452000"},
-{"state":"Stann Creek District","name":"Dangriga","lat":"16.96970000","lon":"-88.23313000"},
-{"state":"Stann Creek District","name":"Placencia","lat":"16.51419000","lon":"-88.36647000"},
-{"state":"Toledo District","name":"Punta Gorda","lat":"16.09835000","lon":"-88.80970000"}]
+[{"name":"Belize District","native":null,"cities":[{"name":"Belize City","native":null,"lat":"17.49952000","lon":"-88.19756000"},{"name":"San Pedro","native":null,"lat":"17.91598000","lon":"-87.96590000"}]},{"name":"Cayo District","native":null,"cities":[{"name":"Belmopan","native":null,"lat":"17.25000000","lon":"-88.76667000"},{"name":"Benque Viejo el Carmen","native":null,"lat":"17.07500000","lon":"-89.13917000"},{"name":"San Ignacio","native":null,"lat":"17.15880000","lon":"-89.06960000"},{"name":"Valley of Peace","native":null,"lat":"17.33472000","lon":"-88.83472000"}]},{"name":"Corozal District","native":null,"cities":[{"name":"Corozal","native":null,"lat":"18.39375000","lon":"-88.38849000"}]},{"name":"Orange Walk District","native":null,"cities":[{"name":"Hopelchén","native":null,"lat":"17.80000000","lon":"-89.10000000"},{"name":"Orange Walk","native":null,"lat":"18.08124000","lon":"-88.56328000"},{"name":"Shipyard","native":null,"lat":"17.89382000","lon":"-88.65452000"}]},{"name":"Stann Creek District","native":null,"cities":[{"name":"Dangriga","native":null,"lat":"16.96970000","lon":"-88.23313000"},{"name":"Placencia","native":null,"lat":"16.51419000","lon":"-88.36647000"}]},{"name":"Toledo District","native":null,"cities":[{"name":"Punta Gorda","native":null,"lat":"16.09835000","lon":"-88.80970000"}]}]

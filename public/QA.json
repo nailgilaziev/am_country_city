@@ -1,15 +1,1 @@
-[{"state":"Al Khor","name":"Al Ghuwayrīyah","lat":"25.82882000","lon":"51.24567000"},
-{"state":"Al Khor","name":"Al Khawr","lat":"25.68389000","lon":"51.50583000"},
-{"state":"Al Rayyan Municipality","name":"Ar Rayyān","lat":"25.29194000","lon":"51.42444000"},
-{"state":"Al Rayyan Municipality","name":"Umm Bāb","lat":"25.21417000","lon":"50.80722000"},
-{"state":"Al Wakrah","name":"Al Wakrah","lat":"25.17151000","lon":"51.60337000"},
-{"state":"Al Wakrah","name":"Al Wukayr","lat":"25.15107000","lon":"51.53718000"},
-{"state":"Al Wakrah","name":"Musay‘īd","lat":"24.99226000","lon":"51.55067000"},
-{"state":"Al-Shahaniya","name":"Al Jumaylīyah","lat":"25.61068000","lon":"51.09108000"},
-{"state":"Al-Shahaniya","name":"Ash Shīḩānīyah","lat":"25.37088000","lon":"51.22264000"},
-{"state":"Al-Shahaniya","name":"Dukhān","lat":"25.42485000","lon":"50.78227000"},
-{"state":"Doha","name":"Doha","lat":"25.28545000","lon":"51.53096000"},
-{"state":"Madinat ash Shamal","name":"Ar Ruways","lat":"26.13978000","lon":"51.21493000"},
-{"state":"Madinat ash Shamal","name":"Fuwayriţ","lat":"26.02565000","lon":"51.36971000"},
-{"state":"Madinat ash Shamal","name":"Madīnat ash Shamāl","lat":"26.12933000","lon":"51.20090000"},
-{"state":"Umm Salal Municipality","name":"Umm Şalāl Muḩammad","lat":"25.41524000","lon":"51.40647000"}]
+[{"name":"Al Daayen","native":null,"cities":[]},{"name":"Al Khor","native":null,"cities":[{"name":"Al Ghuwayrīyah","native":null,"lat":"25.82882000","lon":"51.24567000"},{"name":"Al Khawr","native":null,"lat":"25.68389000","lon":"51.50583000"}]},{"name":"Al Rayyan Municipality","native":null,"cities":[{"name":"Ar Rayyān","native":null,"lat":"25.29194000","lon":"51.42444000"},{"name":"Umm Bāb","native":null,"lat":"25.21417000","lon":"50.80722000"}]},{"name":"Al Wakrah","native":null,"cities":[{"name":"Al Wakrah","native":null,"lat":"25.17151000","lon":"51.60337000"},{"name":"Al Wukayr","native":null,"lat":"25.15107000","lon":"51.53718000"},{"name":"Musay‘īd","native":null,"lat":"24.99226000","lon":"51.55067000"}]},{"name":"Al-Shahaniya","native":null,"cities":[{"name":"Al Jumaylīyah","native":null,"lat":"25.61068000","lon":"51.09108000"},{"name":"Ash Shīḩānīyah","native":null,"lat":"25.37088000","lon":"51.22264000"},{"name":"Dukhān","native":null,"lat":"25.42485000","lon":"50.78227000"}]},{"name":"Doha","native":null,"cities":[{"name":"Doha","native":null,"lat":"25.28545000","lon":"51.53096000"}]},{"name":"Madinat ash Shamal","native":null,"cities":[{"name":"Ar Ruways","native":null,"lat":"26.13978000","lon":"51.21493000"},{"name":"Fuwayriţ","native":null,"lat":"26.02565000","lon":"51.36971000"},{"name":"Madīnat ash Shamāl","native":null,"lat":"26.12933000","lon":"51.20090000"}]},{"name":"Umm Salal Municipality","native":null,"cities":[{"name":"Umm Şalāl Muḩammad","native":null,"lat":"25.41524000","lon":"51.40647000"}]}]

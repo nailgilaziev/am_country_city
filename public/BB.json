@@ -1,7 +1,1 @@
-[{"state":"Christ Church","name":"Oistins","lat":"13.07067000","lon":"-59.54637000"},
-{"state":"Saint Andrew","name":"Greenland","lat":"13.25808000","lon":"-59.57763000"},
-{"state":"Saint James","name":"Holetown","lat":"13.18672000","lon":"-59.63808000"},
-{"state":"Saint Joseph","name":"Bathsheba","lat":"13.21133000","lon":"-59.52596000"},
-{"state":"Saint Michael","name":"Bridgetown","lat":"13.10732000","lon":"-59.62021000"},
-{"state":"Saint Peter","name":"Speightstown","lat":"13.25072000","lon":"-59.64396000"},
-{"state":"Saint Philip","name":"Crane","lat":"13.10487000","lon":"-59.44861000"}]
+[{"name":"Christ Church","native":null,"cities":[{"name":"Oistins","native":null,"lat":"13.07067000","lon":"-59.54637000"}]},{"name":"Saint Andrew","native":null,"cities":[{"name":"Greenland","native":null,"lat":"13.25808000","lon":"-59.57763000"}]},{"name":"Saint George","native":null,"cities":[]},{"name":"Saint James","native":null,"cities":[{"name":"Holetown","native":null,"lat":"13.18672000","lon":"-59.63808000"}]},{"name":"Saint John","native":null,"cities":[]},{"name":"Saint Joseph","native":null,"cities":[{"name":"Bathsheba","native":null,"lat":"13.21133000","lon":"-59.52596000"}]},{"name":"Saint Lucy","native":null,"cities":[]},{"name":"Saint Michael","native":null,"cities":[{"name":"Bridgetown","native":null,"lat":"13.10732000","lon":"-59.62021000"}]},{"name":"Saint Peter","native":null,"cities":[{"name":"Speightstown","native":null,"lat":"13.25072000","lon":"-59.64396000"}]},{"name":"Saint Philip","native":null,"cities":[{"name":"Crane","native":null,"lat":"13.10487000","lon":"-59.44861000"}]},{"name":"Saint Thomas","native":null,"cities":[]}]

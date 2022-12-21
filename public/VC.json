@@ -1,9 +1,1 @@
-[{"state":"Charlotte Parish","name":"Biabou","lat":"13.19430000","lon":"-61.13904000"},
-{"state":"Charlotte Parish","name":"Byera Village","lat":"13.25636000","lon":"-61.11954000"},
-{"state":"Charlotte Parish","name":"Georgetown","lat":"13.28054000","lon":"-61.11850000"},
-{"state":"Grenadines Parish","name":"Port Elizabeth","lat":"13.01102000","lon":"-61.23548000"},
-{"state":"Saint Andrew Parish","name":"Layou","lat":"13.20175000","lon":"-61.27014000"},
-{"state":"Saint David Parish","name":"Chateaubelair","lat":"13.29069000","lon":"-61.24043000"},
-{"state":"Saint George Parish","name":"Kingstown","lat":"13.15527000","lon":"-61.22742000"},
-{"state":"Saint George Parish","name":"Kingstown Park","lat":"13.15924000","lon":"-61.23161000"},
-{"state":"Saint Patrick Parish","name":"Barrouallie","lat":"13.23676000","lon":"-61.27275000"}]
+[{"name":"Charlotte Parish","native":null,"cities":[{"name":"Biabou","native":null,"lat":"13.19430000","lon":"-61.13904000"},{"name":"Byera Village","native":null,"lat":"13.25636000","lon":"-61.11954000"},{"name":"Georgetown","native":null,"lat":"13.28054000","lon":"-61.11850000"}]},{"name":"Grenadines Parish","native":null,"cities":[{"name":"Port Elizabeth","native":null,"lat":"13.01102000","lon":"-61.23548000"}]},{"name":"Saint Andrew Parish","native":null,"cities":[{"name":"Layou","native":null,"lat":"13.20175000","lon":"-61.27014000"}]},{"name":"Saint David Parish","native":null,"cities":[{"name":"Chateaubelair","native":null,"lat":"13.29069000","lon":"-61.24043000"}]},{"name":"Saint George Parish","native":null,"cities":[{"name":"Kingstown","native":null,"lat":"13.15527000","lon":"-61.22742000"},{"name":"Kingstown Park","native":null,"lat":"13.15924000","lon":"-61.23161000"}]},{"name":"Saint Patrick Parish","native":null,"cities":[{"name":"Barrouallie","native":null,"lat":"13.23676000","lon":"-61.27275000"}]}]

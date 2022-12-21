@@ -1,14 +1,1 @@
-[{"state":"Bafatá","name":"Bafatá","lat":"12.16583000","lon":"-14.66167000"},
-{"state":"Bafatá","name":"Contuboel Sector","lat":"12.55500000","lon":"-14.64100000"},
-{"state":"Biombo Region","name":"Quinhámel","lat":"11.88694000","lon":"-15.85556000"},
-{"state":"Bolama Region","name":"Bolama","lat":"11.57694000","lon":"-15.47611000"},
-{"state":"Bolama Region","name":"Bubaque","lat":"11.28333000","lon":"-15.83333000"},
-{"state":"Cacheu Region","name":"Cacheu","lat":"12.27444000","lon":"-16.16528000"},
-{"state":"Cacheu Region","name":"Canchungo","lat":"12.06722000","lon":"-16.03333000"},
-{"state":"Gabú Region","name":"Gabú","lat":"12.28000000","lon":"-14.22222000"},
-{"state":"Oio Region","name":"Bissorã","lat":"12.22306000","lon":"-15.44750000"},
-{"state":"Oio Region","name":"Farim","lat":"12.48389000","lon":"-15.22167000"},
-{"state":"Oio Region","name":"Mansôa","lat":"12.07333000","lon":"-15.31889000"},
-{"state":"Quinara Region","name":"Buba","lat":"11.58889000","lon":"-14.99583000"},
-{"state":"Tombali Region","name":"Catió","lat":"11.28250000","lon":"-15.25472000"},
-{"state":"Tombali Region","name":"Quebo","lat":"11.33333000","lon":"-14.93333000"}]
+[{"name":"Bafatá","native":null,"cities":[{"name":"Bafatá","native":null,"lat":"12.16583000","lon":"-14.66167000"},{"name":"Contuboel Sector","native":null,"lat":"12.55500000","lon":"-14.64100000"}]},{"name":"Biombo Region","native":null,"cities":[{"name":"Quinhámel","native":null,"lat":"11.88694000","lon":"-15.85556000"}]},{"name":"Bolama Region","native":null,"cities":[{"name":"Bolama","native":null,"lat":"11.57694000","lon":"-15.47611000"},{"name":"Bubaque","native":null,"lat":"11.28333000","lon":"-15.83333000"}]},{"name":"Cacheu Region","native":null,"cities":[{"name":"Cacheu","native":null,"lat":"12.27444000","lon":"-16.16528000"},{"name":"Canchungo","native":null,"lat":"12.06722000","lon":"-16.03333000"}]},{"name":"Gabú Region","native":null,"cities":[{"name":"Gabú","native":null,"lat":"12.28000000","lon":"-14.22222000"}]},{"name":"Leste Province","native":null,"cities":[]},{"name":"Norte Province","native":null,"cities":[]},{"name":"Oio Region","native":null,"cities":[{"name":"Bissorã","native":null,"lat":"12.22306000","lon":"-15.44750000"},{"name":"Farim","native":null,"lat":"12.48389000","lon":"-15.22167000"},{"name":"Mansôa","native":null,"lat":"12.07333000","lon":"-15.31889000"}]},{"name":"Quinara Region","native":null,"cities":[{"name":"Buba","native":null,"lat":"11.58889000","lon":"-14.99583000"}]},{"name":"Sul Province","native":null,"cities":[]},{"name":"Tombali Region","native":null,"cities":[{"name":"Catió","native":null,"lat":"11.28250000","lon":"-15.25472000"},{"name":"Quebo","native":null,"lat":"11.33333000","lon":"-14.93333000"}]}]

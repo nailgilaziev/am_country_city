@@ -1,12 +1,1 @@
-[{"state":"Ali Sabieh Region","name":"'Ali Sabieh","lat":"11.15583000","lon":"42.71250000"},
-{"state":"Ali Sabieh Region","name":"Goubétto","lat":"11.42389000","lon":"43.00028000"},
-{"state":"Ali Sabieh Region","name":"Holhol","lat":"11.31028000","lon":"42.92944000"},
-{"state":"Arta Region","name":"Arta","lat":"11.52639000","lon":"42.85194000"},
-{"state":"Dikhil Region","name":"Dikhil","lat":"11.10454000","lon":"42.36971000"},
-{"state":"Dikhil Region","name":"Gâlâfi","lat":"11.71583000","lon":"41.83611000"},
-{"state":"Djibouti","name":"Djibouti","lat":"11.58901000","lon":"43.14503000"},
-{"state":"Djibouti","name":"Loyada","lat":"11.46111000","lon":"43.25278000"},
-{"state":"Obock Region","name":"Alaïli Ḏaḏḏa‘","lat":"12.42167000","lon":"42.89556000"},
-{"state":"Obock Region","name":"Obock","lat":"11.96693000","lon":"43.28835000"},
-{"state":"Tadjourah Region","name":"Dorra","lat":"12.15028000","lon":"42.47624000"},
-{"state":"Tadjourah Region","name":"Tadjourah","lat":"11.78778000","lon":"42.88222000"}]
+[{"name":"Ali Sabieh Region","native":null,"cities":[{"name":"'Ali Sabieh","native":null,"lat":"11.15583000","lon":"42.71250000"},{"name":"Goubétto","native":null,"lat":"11.42389000","lon":"43.00028000"},{"name":"Holhol","native":null,"lat":"11.31028000","lon":"42.92944000"}]},{"name":"Arta Region","native":null,"cities":[{"name":"Arta","native":null,"lat":"11.52639000","lon":"42.85194000"}]},{"name":"Dikhil Region","native":null,"cities":[{"name":"Dikhil","native":null,"lat":"11.10454000","lon":"42.36971000"},{"name":"Gâlâfi","native":null,"lat":"11.71583000","lon":"41.83611000"}]},{"name":"Djibouti","native":null,"cities":[{"name":"Djibouti","native":null,"lat":"11.58901000","lon":"43.14503000"},{"name":"Loyada","native":null,"lat":"11.46111000","lon":"43.25278000"}]},{"name":"Obock Region","native":null,"cities":[{"name":"Alaïli Ḏaḏḏa‘","native":null,"lat":"12.42167000","lon":"42.89556000"},{"name":"Obock","native":null,"lat":"11.96693000","lon":"43.28835000"}]},{"name":"Tadjourah Region","native":null,"cities":[{"name":"Dorra","native":null,"lat":"12.15028000","lon":"42.47624000"},{"name":"Tadjourah","native":null,"lat":"11.78778000","lon":"42.88222000"}]}]
