@@ -26,5 +26,5 @@ for (const i in countries) {
         myStates.push(myState);
     }
     var citiesStr = JSON.stringify(myStates);
-    fs.writeFileSync(`../public/${country.iso2}.json`, citiesStr);
+    fs.writeFileSync(`../public/countries/${country.iso2}.json`, citiesStr);
 }
