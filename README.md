@@ -1,5 +1,34 @@
-# am_country_city
+# intro
 
+файл `public/countries.json` и
+файл `source/countries+states+cities.json`
+это исходники из репозитория https://github.com/dr5hn/countries-states-cities-database
+
+его парсит скрипт `source/parse.js` и раскладывает сгенерированные файлы в `public/countries/*.json`
+после сommit и push начинает работать github actions и папка `public` деплоится в firebase hosting проекта am-country-city (владелец support@activemap.ae)
+
+После эти данные становятся доступными на хосте am-country-city.web.app
+Чтобы получить список стран https://am-country-city.web.app/countries.json
+Чтобы получить список городов по стране надо передать iso2 аббревиатуру страны в запрос https://am-country-city.web.app/{iso2}.json
+
+Список городов сгруппирован по штатам / регионам
+
+# regenerate
+
+подложить новые файлы
+`public/countries.json` и `source/countries+states+cities.json`
+
+запустить 
+```
+cd source
+npm install
+npm test
+git add .
+git commit -m "regenerate files"
+git push
+```
+
+осторожно, если файлы правились руками, это затрет ручные изменения
 
 
 # install details 
